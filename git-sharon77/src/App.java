@@ -5,7 +5,9 @@ public class App {
 		
 
 		
-		System.out.println("fuck2");
+		System.out.println("fuck2////");
+		System.out.println("@@@");
+		
 	}
 
 }
