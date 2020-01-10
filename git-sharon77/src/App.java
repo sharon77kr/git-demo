@@ -15,6 +15,16 @@ public class App {
 		System.out.println("I don't give a fuck, bitch!!");
 		System.out.println("I don't give a fuck, bitch!!");
 		System.out.println("I don't give a fuck, bitch!!");
+
+		System.out.println("I don't give a fuck, bitch!!");
+		System.out.println("I don't give a fuck, bitch!!");
+		System.out.println("I don't give a fuck, bitch!!");
+		System.out.println("I don't give a fuck, bitch!!");
+		System.out.println("I don't give a fuck, bitch!!");
+		System.out.println("I don't give a fuck, bitch!!");
+		System.out.println("I don't give a fuck, bitch!!");
+		System.out.println("I don't give a fuck, bitch!!");
+		System.out.println("I don't give a fuck, bitch!!");
 		
 		
 		
