@@ -8,7 +8,19 @@ public class App {
 		System.out.println("악!악!악!");
 		System.out.println("같이 포르쉐 사러가요111");
 		System.out.println("I don't give a fuck, bitch!!");
-		System.out.println("sdjklsjkflsk");
+
+		
+		
+		
+		System.out.println("I don't give a fuck, bitch!!");
+		System.out.println("I don't give a fuck, bitch!!");
+		System.out.println("I don't give a fuck, bitch!!");
+		
+		
+		
+		
+		
+
 	}
 
 }
